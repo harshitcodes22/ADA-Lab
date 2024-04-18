@@ -25,7 +25,16 @@ This repository contains implementations of various algorithms in different prog
 | 17      | [Prim's Algorithm](#prims-algorithm)      |                    |          |                     |
 | 18      | [Kruskal's Algorithm](#kruskals-algorithm) |                    |          |                     |
 | 19      | [Minimum Distance and Path in Multistage Graph](#minimum-distance-and-path-in-multistage-graph) |                    |          |                     |
-
+| 20      | [APSP](#APSP) |                    |          |                     |
+| 21      | [Assembly Line](#Assembly-Line) |                    |          |                     |
+| 22      | [Long Command Sequence](#Long-command-sequence) |                    |          |                     |
+| 23      | [Multistage Graph](#multistage-graph) |                    |          |                     |
+| 24      | [Knapsack DP](#Knapsack-dp) |                    |          |                     |
+| 25      | [minimize-matrix](#minimize-matrix) |                    |          |                     |
+| 26      | [NQuees](#N-Queens) |                    |          |                     |
+| 27      | [Knapsack MP](#Knapsack-MP) |                    |          |                     |
+| 28      | [MColouring](#mcolouring) |                    |          |                     |
+| 29      | [subsetsum](#subsetsum) |                    |          |                     |
 ## Topics
 
 ### Sum of N Numbers
